@@ -6,11 +6,6 @@
     <title>Hello world @ github</title>
 </head>
 <body>
-    <h1>Hello, PHP </h1>
-    <p>Welcome to github website. This is my first github document. Thank you </p>
-
-    <h1>Testing with New PC</h1>
-    <h1>Thana  with New PC</h1>
-    <h1>New Folder test</h1>
+    <h1>I am dev branch</h1>
 </body>
 </html>
